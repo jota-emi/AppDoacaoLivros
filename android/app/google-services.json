@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "657779946809",
+    "firebase_url": "https://ect-mobile-teste.firebaseio.com",
+    "project_id": "ect-mobile-teste",
+    "storage_bucket": "ect-mobile-teste.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657779946809:android:e90c44f41d48919712e4e8",
+        "android_client_info": {
+          "package_name": "com.projeto_mobile_ect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "657779946809-fdpr6udrbd3396r384uh99g47g85uub6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-IwHD7TTZp9o7n1NHv8y4Y_E11TE_Odo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "657779946809-fdpr6udrbd3396r384uh99g47g85uub6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
